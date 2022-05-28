@@ -63,3 +63,14 @@ input[type="text"]{
   box-shadow: 2px 2px 5px #000;
   outline: none;
 }
+
+
+button{
+  width: 100%;
+  min-height: 48px;
+  margin-top: .5rem;
+  font-size: 1rem;
+  border-radius: .25rem;
+  box-shadow: 2px 2px 5px #000;
+  padding: .25rem;
+}
